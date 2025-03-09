@@ -395,7 +395,7 @@ function abort(what) {
   ABORT = true;
   EXITSTATUS = 1;
 
-  var output = 'abort(' + what + ') at ' + stackTrace();
+  var output = 'abort(' + what + ') at '; //+ stackTrace();
   what = output;
 
   // Use a wasm runtime error, because a JS error might be seen as a foreign
