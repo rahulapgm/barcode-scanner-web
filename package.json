@@ -1,6 +1,6 @@
 {
-  "name": "wasm-barcode-scanner",
-  "version": "1.0.1",
+  "name": "barcode-scanner-for-web",
+  "version": "1.1.0",
   "description": "A javascript barcode scanner library",
   "main": "index.js",
   "scripts": {
@@ -8,5 +8,9 @@
   },
   "author": "rahul arunachalam",
   "license": "ISC",
-  "keywords": ["barcode scanner, webassembly", "high accuracy barcode scanner", "realtime barcode scanning", "barcode scanner for react"]
+  "keywords": ["barcode scanner for web, webassembly", "high accuracy barcode scanner", "realtime barcode scanning", "barcode scanner for react"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rahulapgm/barcode-scanner-web"
+  }
 }
