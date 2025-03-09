@@ -1,6 +1,6 @@
 {
   "name": "barcode-scanner-for-web",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A javascript barcode scanner library",
   "main": "index.js",
   "scripts": {
